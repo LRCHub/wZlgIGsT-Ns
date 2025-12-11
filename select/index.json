@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Mr.Children 「GIFT」 MUSIC VIDEO",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-11T17:42:32.262775Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr.Children 「GIFT」 MUSIC VIDEO",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_Mr.Children_「GIFT」_MUSIC_VIDEO_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "Caroline Spence",
+      "has_synced": true,
+      "path": "select/02_The_Gift_Caroline_Spence.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Sweetest Gift",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/03_The_Sweetest_Gift_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Gift",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/04_A_Gift_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gift",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/05_Gift_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "Mark Hollis",
+      "has_synced": true,
+      "path": "select/06_The_Gift_Mark_Hollis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The People Tree (Feat. David Byrne, Chali 2na, Gift of Gab & Z-Trip)",
+      "artist": "N.A.S.A.",
+      "has_synced": false,
+      "path": "select/07_The_People_Tree_(Feat._David_Byrne,_Chali_2na,_Gift_of_Gab_&_Z-Trip)_N.A.S.A..txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "C.O.N.F.O.R.M. (feat. The Gift of Gab, Lateef the Truth Speaker & Infamous Taz)",
+      "artist": "DJ Shadow feat. Gift Of Gab, Lateef The Truth Speaker & Infamous Taz",
+      "has_synced": false,
+      "path": "select/08_C.O.N.F.O.R.M._(feat._The_Gift_of_Gab,_Lateef_the_Truth_Speaker_&_Infamous_Taz)_DJ_Shadow_feat._Gift_Of_Gab,_Lateef_The_Truth_Speaker_&_Infamous_Taz.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gift (feat. Caspr & Cold Hart)",
+      "artist": "fish narc feat. Caspr & Cold Hart",
+      "has_synced": false,
+      "path": "select/09_Gift_(feat._Caspr_&_Cold_Hart)_fish_narc_feat._Caspr_&_Cold_Hart.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gift (feat. Caspr & Cold Hart)",
+      "artist": "fish narc",
+      "has_synced": false,
+      "path": "select/10_Gift_(feat._Caspr_&_Cold_Hart)_fish_narc.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gift with a Golden Gun",
+      "artist": "TOTO",
+      "has_synced": false,
+      "path": "select/11_Gift_with_a_Golden_Gun_TOTO.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "Way Out West",
+      "has_synced": false,
+      "path": "select/12_The_Gift_Way_Out_West.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gift",
+      "artist": "CURVE",
+      "has_synced": false,
+      "path": "select/13_Gift_CURVE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Natures Gift",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/14_Natures_Gift_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/15_The_Gift_INXS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/16_The_Gift_INXS.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "God's Gift",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/17_God's_Gift_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Gift",
+      "artist": "Bayonne",
+      "has_synced": false,
+      "path": "select/18_Gift_Bayonne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GIFT",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_GIFT_Mr.Children.txt"
+    }
+  ]
+}
